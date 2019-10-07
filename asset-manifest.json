@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Animated-form/static/css/main.0df21b3e.chunk.css",
+    "main.js": "/Animated-form/static/js/main.9cc37f3f.chunk.js",
+    "main.js.map": "/Animated-form/static/js/main.9cc37f3f.chunk.js.map",
+    "runtime-main.js": "/Animated-form/static/js/runtime-main.9c127e13.js",
+    "runtime-main.js.map": "/Animated-form/static/js/runtime-main.9c127e13.js.map",
+    "static/js/2.0e7f98b2.chunk.js": "/Animated-form/static/js/2.0e7f98b2.chunk.js",
+    "static/js/2.0e7f98b2.chunk.js.map": "/Animated-form/static/js/2.0e7f98b2.chunk.js.map",
+    "index.html": "/Animated-form/index.html",
+    "precache-manifest.1eeb49f0f5366e180f27511d774f74d3.js": "/Animated-form/precache-manifest.1eeb49f0f5366e180f27511d774f74d3.js",
+    "service-worker.js": "/Animated-form/service-worker.js",
+    "static/css/main.0df21b3e.chunk.css.map": "/Animated-form/static/css/main.0df21b3e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c127e13.js",
+    "static/js/2.0e7f98b2.chunk.js",
+    "static/css/main.0df21b3e.chunk.css",
+    "static/js/main.9cc37f3f.chunk.js"
+  ]
+}
