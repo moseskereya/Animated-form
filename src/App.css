@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-form{
+    width: 350px;
+    height: 300px;
+    background: #e67e89;
+    margin: 30px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5)
+}
+body{
+    background: #999696;
+}
+.App-inner{
+  padding: 30px;
+}
+.App-inner button{
+    background: rgb(0,0,0);
+    color: rgb(173, 176, 179);
+    padding: 4px 8px;
+    outline: none;
+    text-transform: uppercase;
+    border: none;
+}
+.img{
+    width: 40px;
+
+}
+@media screen and (max-width:500px){
+    .App-form{
+        max-width: 100%;
+        height: 80vh;
+    }
+}
